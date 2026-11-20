@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: If you use this project, please cite the authors listed here.
+type: software
+title: YouTube Comment Sentiment
+authors:
+- family-names: Edupalli
+  given-names: Pardha Saradhi
+  affiliation: University of Cincinnati
+  website: https://github.com/Pardhu0911
+repository-code: https://github.com/Pardhu0911/youtube-comment-sentiment
+url: https://github.com/Pardhu0911/youtube-comment-sentiment
+license: MIT
